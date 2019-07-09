@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: client
-      image: shivam123425/multi-client
+      image: shivam123425/multi-worker
       ports:
         - containerPort: 3000
